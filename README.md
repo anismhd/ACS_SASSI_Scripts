@@ -21,4 +21,4 @@ The model needs to in in single part and consists of following types of elements
 3. All types of solid element excluding tetrahedron elements
 
 ### Step 1 : Prepare the model in ABAQUS
-
+Prepare the model in Abaqus and perform and gravity load and modal analysis to ensure that the model is working properly. Once the model is finalised, note down the name of model and part from the Abaqus GUI.
