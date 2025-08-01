@@ -6,4 +6,9 @@ This is a brief note decribing the process of preparing a model for seismic anal
 This document provides step by step guide in preparing a model, excecute a run and post processing of results.
 Please note that this document is not a suppliment for ACS SASSI manual. The user is strongly advised to read following documents to get a theoretical knowledge on SASSI and ACS SASSI.
 
+1. Wolf, John P. "Dynamic soil-structure interaction." (1985)
+2. Theoretical Manual for SASSI2000
+3. Phd Thesis associated with SASSI Develepment
 
+## Model Preparations
+The seismic analysis model  
