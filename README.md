@@ -11,4 +11,14 @@ Please note that this document is not a suppliment for ACS SASSI manual. The use
 3. Phd Thesis associated with SASSI Develepment
 
 ## Model Preparations
-The seismic analysis model  
+In it is ideal and practiced to develop seismic analysis model for ACS SASSI in other FEA softwares and convert to SASSI model.
+In this document transfer of model from ABAQUS to ACS SASSI are described in detail.
+While prepariing the model in ABAQUS for ACS SASSI, please note that, no constrain equations or springs are not allowed as part of the model. 
+The model needs to in in single part and consists of following types of elements only.
+
+1. All beam and truss elements
+2. All types of shell element including triangulal
+3. All types of solid element excluding tetrahedron elements
+
+### Step 1 : Prepare the model in ABAQUS
+
